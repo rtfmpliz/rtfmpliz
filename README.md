@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=rtfmpliz&color=black)</div>
+ 
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/MilanJovanovicTech) 
+
+[![Wordpress URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.rtfmpliz.wordpress.com)
+
+<hr/>
+
+<a href="https://github.com/m-jovanovic">
+  <img src="https://github-readme-stats.vercel.app/api?username=rtfmpliz&count_private=true&show_icons=true&hide=stars" />
+</a>
 
 <!--
 **rtfmpliz/rtfmpliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
