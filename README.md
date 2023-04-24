@@ -1,8 +1,8 @@
-### Hi there 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=rtfmpliz&color=black)</div>
+### Hi there 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=rtfmpliz&color=blue)</div>
  
 [![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/MilanJovanovicTech) 
 
-[![Wordpress URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.rtfmpliz.wordpress.com)
+[![Wordpress URL](https://img.shields.io/static/v1?color=red&label=wordpress&logo=wordpress&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.rtfmpliz.wordpress.com)
 
 <hr/>
 
