@@ -6,9 +6,10 @@
 
 <hr/>
 
-<a href="https://github.com/m-jovanovic">
+<a href="https://github.com/rtfmpliz">
   <img src="https://github-readme-stats.vercel.app/api?username=rtfmpliz&count_private=true&show_icons=true&hide=stars" />
 </a>
+
 
 <!--
 **rtfmpliz/rtfmpliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtfmpliz&layout=compact)](https://github.com/rtfmpliz/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rtfmpliz)](https://github.com/rtfmpliz/github-readme-stats)
+
+
 -->
